@@ -35,7 +35,8 @@ Lottery result will be the same if run under the following Python versions
 
 ## Current lotteries
 
-TODO
+1. Get 5 GRIN by joining the [QA proposal for GRIN](https://area51.stackexchange.com/proposals/126325/grin). We have 25 lottery tickets available. Join the Telegram group of [Grinventors](https://t.me/grinventors) to get a lottery ticket. GRIN blockchain block will be used as the seed. Lottery block number will be announced at least 1440 blocks ahead which is 24h after last ticket is claimed.
+2. Get a [free Anteater Corp. NFT](https://opensea.io/collection/anteaters-corp). We have 25 lottery tickets available. Join the Telegram group of [Anteaters Corp. Coffee Break](https://t.me/anteaterscorplobby) to get a lottery ticket. GRIN blockchain block will be used as the seed. Lottery block number will be announced at least 1440 block ahead which as 24h after last ticket is claimed.
 
 ## Past lotteries
 
