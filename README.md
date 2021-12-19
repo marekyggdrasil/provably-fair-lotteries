@@ -1,4 +1,7 @@
+[![Build Status](https://app.travis-ci.com/marekyggdrasil/provably-fair-lotteries.svg?branch=main)](https://travis-ci.com/marekyggdrasil/provably-fair-lotteries)
+
 # provably-fair-lotteries
+
 
 ## How to run the lottery?
 
