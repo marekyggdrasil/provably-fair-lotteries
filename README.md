@@ -23,6 +23,13 @@ Shuffled
 [12, 5, 8, 9, 6, 11, 1, 4, 3, 7, 2, 10]
 ```
 
+### Compatibility
+
+Lottery result will be the same if run under the following Python versions
+```
+3.4, 3.5, 3.6, 3.7, 3.8, 3.9
+```
+
 ## Current lotteries
 
 TODO
@@ -30,3 +37,4 @@ TODO
 ## Past lotteries
 
 TODO
+
