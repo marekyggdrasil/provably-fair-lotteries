@@ -1,6 +1,18 @@
 from src.lottery import lottery
 
 
+# grin lottery #1
+# block height 1550360
+# https://grinexplorer.net/block/00003fdaff2ab03fcbdeed39307a4ad90c0bbf4394d23026b7b4b794d8f6b932
+def test_grinventions_1():
+    rn = 25
+    input_hash = '00003fdaff2ab03fcbdeed39307a4ad90c0bbf4394d23026b7b4b794d8f6b932'
+    seed, tickets, shuffled = lottery(input_hash, rn)
+    assert seed == 440714160416639244135458261333621959951537644246447821549491272723904818
+    assert tickets == list(range(1, rn+1))
+    assert shuffled == [10, 16, 24, 12, 5, 18, 25, 20, 19, 22, 6, 9, 14, 23, 21, 15, 13, 8, 3, 7, 4, 1, 17, 2, 11]
+
+
 # anteaters lottery #1
 # block height 1545578
 # https://grinexplorer.net/block/00006f2e7a304290afb47c35064fb0f7462f127a26d51f47ff1a22b1076ba5fd
